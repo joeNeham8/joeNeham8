@@ -1,12 +1,6 @@
 ![My Avatar](img/img1.png)
 
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/joeNeham8.https://github.com/joeNeham8)
-
-</p>
 <div size='20px'> Hi! My name is Neham Joe Baiju. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
@@ -43,16 +37,17 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/neham-joe-baiju-124072257/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/https://x.com/JoeNeham28'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/https://github.com/joeNeham8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.github.com/https://github.com/joeNeham8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> <br> 
+****
 
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeNeham8&layout=compact&theme=tokyonight)  
 
 
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-![Metrics](https://metrics.lecoq.io/https://github.com/joeNeham8?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeNeham8&theme=dark)
 
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=joeNeham8&theme=gruvbox)
 
 
