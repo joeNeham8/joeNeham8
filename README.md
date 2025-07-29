@@ -1,6 +1,5 @@
-<div align="center">
-<img width="100%" height = "250px" src=" https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif " alt="cover" />
-</div>
+![My Avatar](img/img1.png)
+
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
